@@ -1,0 +1,7 @@
+greenlet
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+reactivex
+asyncio
